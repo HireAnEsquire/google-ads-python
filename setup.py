@@ -23,8 +23,8 @@ install_requires = [
     # NOTE: Source code for grpcio and grpcio-status exist in the same
     # grpc/grpc monorepo and thus these two dependencies should always
     # have the same version range.
-    "grpcio >= 1.51.1, < 2.0.0",
-    "grpcio-status >= 1.51.1, < 2.0.0",
+    "grpcio >= 1.52.0, < 2.0.0",
+    "grpcio-status >= 1.52.0, < 2.0.0",
     "proto-plus >= 1.22.2, < 1.23",
     "PyYAML >= 6.0, < 7.0",
     "setuptools >= 67.3.2",
